@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
+- project: shopping cart
   role: Contributor
   duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  url: "https://github.com/probot/shoppingcart"
+  description: A framework for e-commerce shopping transaction
 
 # GitHub Classroom
 - project: GitHub Classroom
